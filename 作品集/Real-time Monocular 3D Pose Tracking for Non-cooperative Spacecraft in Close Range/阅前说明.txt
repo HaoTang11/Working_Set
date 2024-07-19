@@ -1,0 +1,3 @@
+该文件夹内一共两个文件：
+1、论文（部分）：是在投论文《Model-based Visual 3D Pose Tracking of Non-cooperative Spacecraft in Close Range》的部分节选，包括摘要和算法overview。
+2、Video1和Video2（压缩版本）：是论文中真实实验部分的追踪效果视频。左上角是视频的帧数，表示现在处在视频的第几帧；红色曲线是在某一位位姿参数下，小行星模型在该位姿下的3D特征（本文所用跟踪对象，即3D边缘和3D轮廓）在跟踪图像中的投影，其和模型越贴合表示跟踪精度越好。
